@@ -484,31 +484,31 @@ This will open browser window like you see here
 There you can see QR code at bottom left scan it with QR code scanner from expo client in your mobile device.
 
 It will open up our dapp. It should look like this
-![](img\1_MainUINotLoggedIn.jpg)
+![](./img/1_MainUINotLoggedIn.jpg)
 
 Now we can go through process of incrementing the counter. First login by pressing login button. It will give us option to select our wallet of choice
 
-![](img\2_AskingForSelection.jpg)
+![](./img/2_AskingForSelection.jpg)
 
 Select Alfajores wallet.
 
 After selecting wallet it will redirect us to actual wallet and there it will ask for permission
 
-![](img\3_AccountAuth.jpg)
+![](./img/3_AccountAuth.jpg)
 
 Click on allow button to give information to our dapp. 
 
 Now we got access to information it will redirect us to our dapp where account information is displayed now instead of `Not logged in` text
 
-![](img\4_AfterLogin.jpg)
+![](./img/4_AfterLogin.jpg)
 
 We should now increment to count by pressing on increment count which will redirect us to wallet to sign the transaction
 
-![](img\5_TransactionRequest.jpg)
+![](./img/5_TransactionRequest.jpg)
 
 Click on allow and after getting to our dapp screen we can see our count is increased by 1.
 
-![](img\6_Incremented.jpg)
+![](./img/6_Incremented.jpg)
 
 And just like that we have created our first ever mobile app.
 
